@@ -2,7 +2,7 @@
   "name": "Simple form",
   "description": "",
   "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
-  "public": false,
+  "public": true,
   "extensions": {
     "crm": {
       "cards": [
