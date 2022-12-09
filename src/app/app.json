@@ -1,8 +1,8 @@
 {
   "name": "Simple form",
-  "description": "",
+  "description": "for adding useful info",
   "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
-  "public": true,
+  "public": false,
   "extensions": {
     "crm": {
       "cards": [
